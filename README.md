@@ -8,14 +8,12 @@
 
 
 # Currently Learning
-<details>
 - [ ] VM Architecture: Stack Machine vs Register Machine
 - [ ] WASM
 - [ ] SignalR (.NET)
 - [x] Svelte
 - [ ] Chrome Extension
 - [x] GRPC & Protobufs
-</details>
 
 # Stats
 <details>
