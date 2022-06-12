@@ -18,6 +18,7 @@
 - [ ] gRPC
 - [X] Protobufs
 - [ ] Category Theory
+- [ ] WebGL w/ Three.js
 
 # Stats
 <details>
