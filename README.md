@@ -10,10 +10,13 @@
 # Currently Learning
 - [ ] VM Architecture: Stack Machine vs Register Machine
 - [ ] WASM
-- [ ] SignalR (.NET)
-- [x] Svelte
-- [ ] Chrome Extension
-- [x] GRPC & Protobufs
+- [ ] rustlang
+- [ ] AMQP Protocol
+- [ ] SSR React
+- [X] Svelte
+- [X] Chrome Extensions
+- [ ] gRPC
+- [X] Protobufs
 
 # Stats
 <details>
