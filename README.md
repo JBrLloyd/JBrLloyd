@@ -19,6 +19,7 @@
 - [X] Protobufs
 - [ ] Category Theory
 - [ ] WebGL w/ Three.js
+- [ ] Service Mesh
 
 # Stats
 <details>
