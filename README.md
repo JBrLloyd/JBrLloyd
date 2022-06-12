@@ -17,6 +17,7 @@
 - [X] Chrome Extensions
 - [ ] gRPC
 - [X] Protobufs
+- [ ] Category Theory
 
 # Stats
 <details>
