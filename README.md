@@ -10,16 +10,19 @@
 # Currently Learning
 - [ ] VM Architecture: Stack Machine vs Register Machine
 - [ ] WASM
-- [ ] rustlang
+- [x] Basic rustlang
 - [ ] AMQP Protocol
 - [ ] SSR React
 - [X] Svelte
 - [X] Chrome Extensions
-- [ ] gRPC
+- [x] gRPC
 - [X] Protobufs
 - [ ] Category Theory
 - [ ] WebGL w/ Three.js
 - [ ] Service Mesh
+- [ ] Astro
+- [ ] Async Rust
+- [ ] NextJS
 
 # Stats
 <details>
