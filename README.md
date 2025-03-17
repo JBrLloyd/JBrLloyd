@@ -10,19 +10,21 @@
 # Currently Learning
 - [ ] VM Architecture: Stack Machine vs Register Machine
 - [ ] WASM
-- [x] Basic rustlang
 - [ ] AMQP Protocol
 - [ ] SSR React
-- [X] Svelte
-- [X] Chrome Extensions
 - [x] gRPC
 - [X] Protobufs
 - [ ] Category Theory
 - [ ] WebGL w/ Three.js
 - [ ] Service Mesh
-- [ ] Astro
-- [ ] Async Rust
-- [ ] NextJS
+- [ ] Interpreters & Lexicon
+- [ ] AI from scratch
+- [ ] Internals of a debugger https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
+- [ ] Rust send/sync traits
+- [ ] [Valgrind](https://valgrind.org/info/tools.html)
+- [ ] AVL vs Red/Black b-tree
+- [ ] C [termination sentinel](https://ziggit.dev/t/what-are-sentinals/3748) / [sentinel value](https://en.wikipedia.org/wiki/Sentinel_value) / [terminated string](https://en.wikipedia.org/wiki/Null-terminated_string)
+- [ ] [.NET 9 performance improvements](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/#benchmarking-setup)
 
 # Stats
 <details>
