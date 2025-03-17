@@ -25,6 +25,7 @@
 - [ ] AVL vs Red/Black b-tree
 - [ ] C [termination sentinel](https://ziggit.dev/t/what-are-sentinals/3748) / [sentinel value](https://en.wikipedia.org/wiki/Sentinel_value) / [terminated string](https://en.wikipedia.org/wiki/Null-terminated_string)
 - [ ] [.NET 9 performance improvements](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/#benchmarking-setup)
+- [ ] [Polyomino Tiling Algo](https://gfredericks.com/blog/99)
 
 # Stats
 <details>
