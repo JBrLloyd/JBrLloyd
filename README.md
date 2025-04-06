@@ -33,10 +33,3 @@
     <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBrLloyd&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   </div>
 </details>
-
-# Currently Listening To
-<details>
-  <div align="center" style="display: flex; justify-content: center; align-items: center;" >
-    <img width="" src="https://uwokman.herokuapp.com/spotify/currently-playing.svg" alt="Currently Playing on Spotify" />
-  </div>
-</details>
